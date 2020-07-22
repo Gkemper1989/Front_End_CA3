@@ -1,0 +1,20 @@
+html,
+a {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#topMenu a{
+    padding:10px;
+    margin-top: 30px 10px;
+    border: 1px white solid;
+}
+
+#topMenu{
+    margin: 20px;
+}
+
+body {
+  background-image: url("../images/background.jpg");
+}
